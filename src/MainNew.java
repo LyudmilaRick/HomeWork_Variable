@@ -1,22 +1,21 @@
-public class Main {
+public class MainNew {
 
     public static void main(String[] args) {
-	// Home work for the lesson Variable
-    // Домашняя работа 09.10.2021
-    // Задача 1. Инициализация
+        // Home work for the lesson Variable
+        // Задача 1. Инициализация
         byte   age         = 54;
         short  ageMonth    = 648;
         int    ageDays     = 19440;
         long   ageHours    = 4665560L;
         float  valueFamous = 3.141592f;
         double valueMore   = 3.1415926535;
-    //  Задача 2.
+        //  Задача 2.
         float  firstMan  = 78.2f;
         float  secondMan = 82.7f;
         System.out.println("Задача 2");
         System.out.println("Oбщий вес двух бойцов равен " + (firstMan + secondMan) );
         System.out.println("Разница между весами бойцов равна " + ( secondMan - firstMan ) );
-      //  Задача 3.
+        //  Задача 3.
         short  weightBanana  = 80;
         short  weightMilk    = 105;
         short  weightCream   = 100;
@@ -27,7 +26,7 @@ public class Main {
         System.out.println("Задача 3");
         System.out.println("Спорт-завтрак " + weightBreakfast + " грамм");
         System.out.println("Спорт-завтрак " + weightBreakfastKg + " килограмм");
-      //  Задача 4.
+        //  Задача 4.
         System.out.println("Задача 4");
         int   kgOverWeight = 7;
         short transferUnit = 1000;
