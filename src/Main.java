@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// Home work for the lesson Variable
+    // Домашняя работа 09.10.2021
     // Задача 1. Инициализация
         byte   age         = 54;
         short  ageMonth    = 648;
